@@ -1,0 +1,6 @@
+dependencies:
+- name: template-chart
+  repository: file://../template-chart
+  version: 0.1.0
+digest: sha256:45db2d6b2c37f93f65a1e2cd4b5f15abd08273c5a2c10552ae3a0890075753a9
+generated: "2021-06-05T22:02:33.5477368+02:00"
